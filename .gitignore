@@ -1,0 +1,8 @@
+
+gotest\.exe
+
+debug
+
+vendor/
+
+Gopkg\.lock
